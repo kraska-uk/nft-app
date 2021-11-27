@@ -2,11 +2,15 @@
   "name": "KRASKA. Knitted Paintings, 2022 #6",
   "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
   "external_link": "https://kraska.uk/",
-  "image": "https://avatars.githubusercontent.com/u/94705217",
+  "image": "ipfs://QmUnZvcXDpCPyRW8rfMP4BLDhM5HQh26qxFsvyYsAwss3P",
   "attributes": [
     {
+      "trait_type": "Brand",
+      "value": "KRASKA"
+    },
+    {
       "trait_type": "Type",
-      "value": "Pullover"
+      "value": "Kardigan"
     },
     {
       "trait_type": "Size",
