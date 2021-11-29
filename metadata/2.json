@@ -1,6 +1,6 @@
 {
   "name": "Art à Porter Cardigan, Purple, S-M, 1/100",
-  "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
+  "description": "**KRASKA** is a metaverse luxury brand that is based on the “art-à-porter” or wearable art idea. \n\nThe first collection “Knitted Paintings, 2022” is a tribute to the Russian avant-garde artist Vassily Kandinsky. Each item in the collection is a colorful abstract painting by artist Ark Petrov that is handcrafted into a form of a garment: sweaters and cardigans knitted from premium materials – Australian merino and baby-alpaca wool. \n\nEach NFT in this collection comes with a physical item and a tokenized AR experience available on Instagram. \n\nNFC (near field communication) chips are embedded into physicals and give smartphone access to the item’s unique landing page which establishes the connection between the physical item and the token and give access to the Instagram AR filters. \n\nPhysical items come in handcrafted boxes lined with a vibrant print matching that of a purchased item and a certificate of authenticity signed by the artist Ark Petrov. \n\nRedemption for physicals will be open in 6 weeks. Once redeemed expect a 8-12 week delivery. \n\nMore information: https://kraska.uk/redeem \n\nPhysicals will be given to primary market purchasers and are not subject to return or exchange. Secondary market purchases are encouraged to request the sellers to send the physical item alongside the token. Secondary market purchases will NOT qualify you to receive the physicals from KRASKA.",
   "external_link": "https://kraska.uk/",
   "image": "ipfs://QmW1jnjLDD87FJ31S7fGexdQpDmV81Eu41wuRnhrLqZSBm",
   "animation_url": "ipfs://QmUnZvcXDpCPyRW8rfMP4BLDhM5HQh26qxFsvyYsAwss3P",
@@ -10,16 +10,20 @@
       "value": "KRASKA"
     },
     {
-      "trait_type": "Color",
-      "value": "Purple"
-    },
-    {
       "trait_type": "Type",
       "value": "Kardigan"
     },
     {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1/100"
+    },
+    {
       "trait_type": "Size",
-      "value": "M"
+      "value": "S-M"
     }
   ]
 }
