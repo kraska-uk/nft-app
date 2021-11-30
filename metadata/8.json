@@ -1,7 +1,6 @@
 {
-  "name": "KRASKA. Knitted Paintings, 2022 #8",
+  "name": "Art à Porter Sweater, Light Blue, #9/100, size S-M",
   "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
-  "external_link": "https://kraska.uk/",
   "image": "ipfs://QmSnx1YJB2JZbdaWBZvB3rFKDy84VveLJeokg2WwhnRCkS",
   "animation_url": "ipfs://QmdbvZeSp9GbVwNjWmn4Tu2pvB8BWmVhm42EbTGQWrNFtm",
   "attributes": [
@@ -10,12 +9,28 @@
       "value": "KRASKA"
     },
     {
+      "trait_type": "Collection",
+      "value": "Knitted Paintings, 2022"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Art à Porter"
+    },
+    {
       "trait_type": "Type",
       "value": "Sweater"
     },
     {
+      "trait_type": "Color",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "#9/100"
+    },
+    {
       "trait_type": "Size",
-      "value": "L"
+      "value": "S-M"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Art à Porter Cardigan, Purple, #58/100, size L-XL",
+  "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
+  "image": "ipfs://QmW1jnjLDD87FJ31S7fGexdQpDmV81Eu41wuRnhrLqZSBm",
+  "animation_url": "ipfs://QmUnZvcXDpCPyRW8rfMP4BLDhM5HQh26qxFsvyYsAwss3P",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "KRASKA"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Knitted Paintings, 2022"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Art à Porter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "#58/100"
+    },
+    {
+      "trait_type": "Size",
+      "value": "L-XL"
+    }
+  ]
+}

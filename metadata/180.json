@@ -1,0 +1,36 @@
+{
+  "name": "Art à Porter Sweater, Pink, #81/100, size L-XL",
+  "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
+  "image": "ipfs://QmRDhebJPCXk1ik6fWDhM1XX8uKEHDgRP67zuK11gJkmx8",
+  "animation_url": "ipfs://QmVudi5zqo27MmwYaX24Zf6obqxU8gST4LphH9xkmTLdSZ",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "KRASKA"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Knitted Paintings, 2022"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Art à Porter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "#81/100"
+    },
+    {
+      "trait_type": "Size",
+      "value": "L-XL"
+    }
+  ]
+}

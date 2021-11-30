@@ -1,0 +1,36 @@
+{
+  "name": "Art à Porter Cardigan, Black, #2/100, size S-M",
+  "description": "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
+  "image": "ipfs://QmUcBBg3ZTcLooFY49VW5h8yi8p6REXJKaZVbDWuNLreNS",
+  "animation_url": "ipfs://QmcQ4h3LEmhc4Fq7joxPPCQZSDAPCoBo69eL6T3hxiWZ9Y",
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "KRASKA"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Knitted Paintings, 2022"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Art à Porter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "#2/100"
+    },
+    {
+      "trait_type": "Size",
+      "value": "S-M"
+    }
+  ]
+}
