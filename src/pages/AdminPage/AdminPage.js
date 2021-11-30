@@ -27,7 +27,7 @@ function AdminPage(props) {
     }
   }
   const toastTxSend = (tx) => {
-    const txIsPending = (<div>Transaction is pending <a href={'https://etherscan.io/tx/' + tx.hash} {...getExternalLinkProps}>{tx.hash}</a></div>);
+    const txIsPending = (<div>Transaction is pending <a href={'https://etherscan.io/tx/' + tx.hash} {...getExternalLinkProps()}>{tx.hash}</a></div>);
     toast.promise(
       tx.wait(1),
       {

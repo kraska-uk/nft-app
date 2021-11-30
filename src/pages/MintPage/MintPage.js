@@ -55,7 +55,7 @@ function MintPage(props) {
         pending: 'Waiting for the signing',
         success: {
           render({ data }) {
-            const txIsPending = (<div>Transaction is pending <a href={'https://etherscan.io/tx/' + data.hash} {...getExternalLinkProps}>{data.hash}</a></div>);
+            const txIsPending = (<div>Transaction is pending <a href={'https://etherscan.io/tx/' + data.hash} {...getExternalLinkProps()}>{data.hash}</a></div>);
 
             toast.promise(
               data.wait(1),
