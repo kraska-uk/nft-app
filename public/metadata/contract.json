@@ -3,6 +3,6 @@
   "description": "**KRASKA. Knitted Paintings, 2022** \n\nContract description",
   "image": "ipfs://QmQTvK2HXrHWPyGrDUpzmSSgADqLTHRJVpaTPZUB1aDibc",
   "external_link": "https://kraska.uk/",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 1000,
   "fee_recipient": "0x9c79A90EB4037Bd4EBF33f5369360c0f5F626361"
 }
