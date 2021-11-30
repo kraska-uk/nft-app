@@ -19,6 +19,7 @@ const animation_url = {
 
 function getMetadataTemplate() {
   return {
+    tokenId: 0,
     name: "",
     description: "**KRASKA. Knitted Paintings, 2022** \n\nToken description",
     external_link: "",
@@ -31,6 +32,8 @@ function getMetadataTemplate() {
 
 function processRecord(record) {
   const temp = getMetadataTemplate();
+  temp.tokenId = parseInt(record.tokenId);
+
   //'{category} {type}, {color}, #{edition}/100, size {size}',
   temp.name = record.name;
   temp.name = temp.name.replace('{category}', record.category);
@@ -67,15 +70,22 @@ const records = parse(dataRaw, {
   skip_empty_lines: true
 });
 
-console.log(records)
+const allTokens = [];
 
 for (let i in records) {
   const metadata = processRecord(records[i]);
+  allTokens.push(metadata);
+
   fs.writeFileSync(
     `./metadata/${records[i].tokenId}.json`,
     JSON.stringify(metadata, null, 2)
   );
 }
+
+fs.writeFileSync(
+  `./metadata/all.json`,
+  JSON.stringify(allTokens, null, 2)
+);
 
 /*
     tokenId: '99',
