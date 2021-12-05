@@ -1,10 +1,11 @@
 {
   "name": "@kraska-uk/nft-app",
   "version": "1.0.0",
-  "private": true,
   "description": "KRASKA NFT App",
+  "private": true,
+  "license": "MIT",
   "author": {
-    "name": "KRASKA",
+    "name": "KRASKA.UK",
     "email": "support@kraska.uk",
     "url": "https://kraska.uk"
   },
@@ -97,5 +98,12 @@
     "@types/styled-components": "^5.1.15",
     "csv-parse": "^5.0.3",
     "gh-pages": "^3.2.3"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Aleksandr Ivannikov",
+      "email": "dev@an-ivannikov.com",
+      "url": "https://an-ivannikov.com/"
+    }
+  ]
 }
