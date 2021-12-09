@@ -23,7 +23,7 @@
       },
       {
         "internalType": "address",
-        "name": "proxyRegistryAddress_",
+        "name": "proxyRegistry_",
         "type": "address"
       }
     ],
@@ -475,18 +475,18 @@
     "inputs": [
       {
         "internalType": "address",
-        "name": "proxyRegistryAddress_",
+        "name": "proxyRegistry_",
         "type": "address"
       }
     ],
-    "name": "setProxyRegistryAddress",
+    "name": "setProxyRegistry",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
   },
   {
     "inputs": [],
-    "name": "proxyRegistryAddress",
+    "name": "proxyRegistry",
     "outputs": [
       {
         "internalType": "address",
